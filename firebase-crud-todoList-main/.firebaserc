@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fir-crud-64d06"
-  }
+    "default": "finalact1-47530",
+    "development": "finalact1-47530"
+  },
+  "targets": {},
+  "etags": {}
 }

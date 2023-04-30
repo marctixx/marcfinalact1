@@ -27,7 +27,7 @@ export default function Forms() {
     <form onSubmit={createTodo}>
       <input
         type="text"
-        placeholder="Enter a Todo..."
+        placeholder="Enter a Name"
         className="task-input"
         value={title}
         required
